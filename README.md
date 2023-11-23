@@ -21,11 +21,8 @@ Niagara particles are spawned in the screenspace and then projected on the surfa
 
 ![Alt text](./doc_res/CustomStencil.jpg "")
 
-### Textures that I've used in this project
-
-![Alt text](./doc_res/dls.jpg "")
-
-[Ghost Face](https://www.cleanpng.com/png-ghostface-paper-sticker-wall-decal-skull-cartoon-f-270164/)
+***
+Megascans Grass Texture Link
 
 [Clover Patches On Grass](https://quixel.com/megascans/home?search=clover&search=patches&search=on&search=grass&assetId=sgmkajak)
 
